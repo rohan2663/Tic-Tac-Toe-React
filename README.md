@@ -7,6 +7,8 @@ This is a simple Tic-Tac-Toe game built using React.js. It's a classic game wher
 🛠 Features
 Two-player mode (X vs O)
 Visual indication of the winning player
+
+
 🖥️ Technologies Used
 React.js – Frontend framework
 JavaScript (ES6) – Core language
